@@ -9,6 +9,3 @@ $('.me, #Interests').hover(function(){
 });
 
 });
-
-
-
