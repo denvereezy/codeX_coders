@@ -2,7 +2,7 @@
 
 This your online playground as a codeX coder. 
 
-You will need this repository to deploy to the ```http://coder.codex.co``` domain.
+You will need this repository to deploy to the http://coders.projectcodex.co site.
 
 Here you will learn to blog, code and to rid yourself of any digital side wheels.
 
